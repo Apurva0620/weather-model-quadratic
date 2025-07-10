@@ -1,8 +1,8 @@
+# stage2.py
 
-
-a = 1
-b = -3
-c = 2
+a = float(input("Enter a: "))
+b = float(input("Enter b: "))
+c = float(input("Enter c: "))
 
 discriminant = b**2 - 4*a*c
 
